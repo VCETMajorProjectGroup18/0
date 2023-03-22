@@ -1,8 +1,7 @@
 .hide {
     display: flex;
     background-color: white;
-    /* padding: 0.1%; */
-    /* width: 100px; */
+    min-width: max-content;
     width: 185px;
     font-size: 80%;
     height: 23px;
